@@ -5,8 +5,9 @@
 担当：プログラマー
 
 ## 作業物
-企画書：　https://github.com/iemon0993/Fukunabi/blob/main/%E3%83%95%E3%82%AF%E3%81%AA%E3%81%B3%E3%81%8F%E3%82%93%E4%BC%81%E7%94%BB%E6%9B%B8.xlsx
-ソースコード：　https://github.com/iemon0993/Fukunabi/blob/main/main.py
+企画書：https://github.com/iemon0993/Fukunabi/blob/main/%E3%83%95%E3%82%AF%E3%81%AA%E3%81%B3%E3%81%8F%E3%82%93%E4%BC%81%E7%94%BB%E6%9B%B8.xlsx
+<br>
+ソースコード：https://github.com/iemon0993/Fukunabi/blob/main/main.py
 
 ## 使用したオープンデータ
  令和３年度福島県相談窓口一覧
